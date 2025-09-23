@@ -1,6 +1,6 @@
 <img width="1008" height="647" alt="ChatGPT Image Aug 11, 2025, 12_53_45 PM" src="https://github.com/user-attachments/assets/37d6a2ea-7023-434d-a2e6-b7451cc4cb03" />
 
-# Smart Job Recommender - Gemini RAG System
+# Smart Job Recommender - Gemini 
 
 📄 Upload your resume → 🧠 Let AI extract your skills → 🔍 Find the perfect jobs instantly.
 
