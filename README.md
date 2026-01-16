@@ -26,16 +26,6 @@ The app will use LangChain, Google’s Gemini LLM, and Retrieval-Augmented Gener
 The application will be developed with Streamlit to deliver an interactive and user-friendly experience, making job searching smarter, faster, and more personalized.
 
 
-## 🛠️ Tech Stack
-
-Component	Technology
-Frontend	Streamlit (Python)
-AI Parsing	Gemini AI
-Job Search	Google Custom Search API
-Hosting	Streamlit Cloud / Local
-Styling	Custom CSS + Background
-
-
 ### High-Level Workflow
 
 1. **User Uploads Resume**  
