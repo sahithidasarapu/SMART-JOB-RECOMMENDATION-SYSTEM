@@ -117,9 +117,6 @@ HOW THIS WORKS?
 - **Step 3:** The app will directly use your inputs to search for jobs through the **Google Custom Search API**.  
 - **Step 4:** Browse the latest and most relevant job postings in real-time.
 
-https://github.com/user-attachments/assets/c391de19-c8e0-4796-8ba8-91b236de0879
-
-
 ## ⚡ Challenges & How I Solved Them
 
 1. **Parsing Resume Data Accurately**  
