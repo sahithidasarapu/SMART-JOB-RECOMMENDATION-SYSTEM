@@ -1,6 +1,4 @@
-<img width="1008" height="647" alt="ChatGPT Image Aug 11, 2025, 12_53_45 PM" src="https://github.com/user-attachments/assets/37d6a2ea-7023-434d-a2e6-b7451cc4cb03" />
-
-# Smart Job Recommender - Gemini 
+# Smart Job Recommendation system
 
 📄 Upload your resume → 🧠 Let AI extract your skills → 🔍 Find the perfect jobs instantly.
 
@@ -104,21 +102,13 @@ The core concept behind building **Smart Job Recommender** was to create a **sea
 - 6️⃣ Streamlit UI (Job Results & Explanations)
 
 
-## 🚀 How the App Works
-
-
-The **Smart Job Recommender** offers two simple ways for users to find relevant jobs:
-
-**APP LINK** : https://smartjobrecommenderusinglangchain-3r597cctohrhdbqvzubyd9.streamlit.app/
+HOW THIS WORKS?
 
 ### 1️⃣ Upload Your Resume  
 - **Step 1:** Click the **"Upload Resume"** option on the homepage.  
 - **Step 2:** Select your PDF resume file.  
 - **Step 3:** The app will automatically read your resume using **PyPDF Loader**, extract your **skills**, **experience**, and **job interests** using **Gemini AI**, and pass them to the **Google Custom Search API**.  
 - **Step 4:** Instantly see **fresh job listings** from LinkedIn, Google Jobs, Indeed, Naukri, and Internshala.
-- 
-https://github.com/user-attachments/assets/a253b522-5eda-4302-a5b2-b2574137c127
-
 
 
 ### 2️⃣ Enter Details Manually  
@@ -147,7 +137,7 @@ https://github.com/user-attachments/assets/c391de19-c8e0-4796-8ba8-91b236de0879
 4. **Maintaining Real-Time Job Listings**  
    - *Challenge:* Many job listings go stale quickly.  
    - *Solution:* Always query live data instead of storing results, ensuring users see only **fresh, active jobs**.
-   
+  
 
 ## 🔮 Future Enhancements
 
@@ -179,8 +169,8 @@ Here are some planned improvements and ideas to make **Smart Job Recommender** e
 
 
 ## 🙏 Big Thanks for Reading!  
-Thank you for taking the time to explore **Smart Job Recommender**.  
-Your interest and support mean a lot — feel free to ⭐ the repo if you found it useful, and contributions are always welcome!
+Thank you for taking the time to explore **Smart Job Recommendation system**.  
+
 
  
 
