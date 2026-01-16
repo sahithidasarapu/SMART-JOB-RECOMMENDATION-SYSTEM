@@ -36,12 +36,6 @@ Hosting	Streamlit Cloud / Local
 Styling	Custom CSS + Background
 
 
-## 💡 Key Idea
-
-<img width="1095" height="655" alt="image" src="https://github.com/user-attachments/assets/2b368a82-f59f-4c89-b476-fbb34359e900" />
-
-The core concept behind building **Smart Job Recommender** was to create a **seamless AI-powered pipeline** that transforms a simple resume upload into **tailored job opportunities** from multiple platforms in real-time.
-
 ### High-Level Workflow
 
 1. **User Uploads Resume**  
